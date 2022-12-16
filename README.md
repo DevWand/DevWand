@@ -7,6 +7,6 @@ I'm a fullstack developer with the following technologies: C#, Xamarin, Golang, 
 I love minimalism and simplicity!
 
 ## Technologies
-- Front-End: HTML, Javascript, Bootstrap, Angular, React
-- Back-End: CSharp, Golang, NodeJs
-- Mobile: Kotlin
+- Front-End: Angular, React
+- Back-End: CSharp, Golang, NodeJs and C++
+- Mobile: Java and Kotlin
