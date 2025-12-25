@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Wander
 
-Tenho 25 anos e programo desde 2014. Comecei com **PHP** e, desde então, a programação se tornou minha principal área profissional. Ao longo dos anos, trabalhei com diferentes tecnologias, sempre com foco em qualidade, desempenho e boas práticas.
+Tenho 25 anos e programo desde os 14. Comecei com **PHP** e, desde então, a programação se tornou minha principal área profissional. Ao longo dos anos, trabalhei com diferentes tecnologias, sempre com foco em qualidade, desempenho e boas práticas.
 
 ---
 
