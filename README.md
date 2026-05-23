@@ -1,19 +1,19 @@
-# 👋 Olá, eu sou o Wander
+# 👋 Hi, I'm Wander
 
-Tenho 26 anos e programo desde os 14. Comecei com **PHP** e, desde então, a programação se tornou minha principal área profissional. Ao longo dos anos, trabalhei com diferentes tecnologias, sempre com foco em qualidade, desempenho e boas práticas.
+I am 26 years old and have been programming since I was 14. I started with **PHP**, and since then, programming has become my main professional area. Over the years, I've worked with various technologies, always focusing on quality, performance, and best practices.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-* 👨‍💻 Desenvolvedor desde 2014
+* 👨‍💻 Developer since 2014
 * 🔧 Full-Stack
-* 📚 Perfil autodidata e aprendizado contínuo
-* 🧠 Interesse em **arquitetura**, **código limpo** e **boas práticas**
+* 📚 Self-taught with a focus on continuous learning
+* 🧠 Interested in **architecture**, **clean code**, and **best practices**
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
@@ -25,10 +25,10 @@ Tenho 26 anos e programo desde os 14. Comecei com **PHP** e, desde então, a pro
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objective
 
-Evoluir constantemente como desenvolvedor, atuando em projetos desafiadores e entregando soluções eficientes e escaláveis.
+To constantly evolve as a developer, working on challenging projects and delivering efficient and scalable solutions.
 
 ---
 
-⭐ Se algum projeto for útil, considere deixar uma estrela.
+⭐ If you find any of my projects useful, please consider leaving a star.
