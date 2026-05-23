@@ -10,7 +10,6 @@ Tenho 26 anos e programo desde os 14. Comecei com **PHP** e, desde então, a pro
 * 🔧 Backend e **full stack**
 * 📚 Perfil autodidata e aprendizado contínuo
 * 🧠 Interesse em **arquitetura**, **código limpo** e **boas práticas**
-* Telegram: https://t.me/GaloDuro
 
 ---
 
