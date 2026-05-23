@@ -7,7 +7,7 @@ Tenho 26 anos e programo desde os 14. Comecei com **PHP** e, desde então, a pro
 ## 🚀 Sobre mim
 
 * 👨‍💻 Desenvolvedor desde 2014
-* 🔧 Backend e **full stack**
+* 🔧 Full-Stack
 * 📚 Perfil autodidata e aprendizado contínuo
 * 🧠 Interesse em **arquitetura**, **código limpo** e **boas práticas**
 
